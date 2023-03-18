@@ -32,7 +32,7 @@ Make sure that the "Solution Explorer" contains a file called "Game.cs".
 
 ## Authors
 
-Tiago Fontoura da Cruz reviwed by Professor Stephen Johnson.
+Tiago Fontoura da Cruz reviewed by Professor Stephen Johnson.
 
 ## Version History
 
